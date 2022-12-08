@@ -155,7 +155,7 @@
       <Version>6.1.9</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>12.0.1</Version>
+      <Version>13.0.2</Version>
     </PackageReference>
     <PackageReference Include="UnitsNet">
       <Version>3.34.0</Version>
